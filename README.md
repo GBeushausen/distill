@@ -25,12 +25,12 @@ The recommended way to install Distill is through [Composer](http://packagist.or
 ``` json
 {
     "require": {
-        "raulfraile/distill": "@stable"
+        "gbeushausen/distill": "@stable"
     }
 }
 ```
 
-**Protip**: you should browse the [raulfraile/distill](https://packagist.org/packages/raulfraile/distill) page to choose a stable version to use, avoid the `@stable` meta constraint.
+**Protip**: you should browse the [gbeushausen/distill](https://packagist.org/packages/gbeushausen/distill) page to choose a stable version to use, avoid the `@stable` meta constraint.
 
 Otherwise, install the library and setup the autoloader yourself.
 
@@ -97,7 +97,7 @@ $ distill-cli extract archive.tar.gz path/
 
 ## Contributing
 
-See [CONTRIBUTING](https://github.com/raulfraile/distill/blob/master/CONTRIBUTING.md) file.
+See [CONTRIBUTING](https://github.com/GBeushausen/distill/blob/master/CONTRIBUTING.md) file.
 
 
 ## Running the Tests
@@ -117,8 +117,8 @@ $ phpunit
 ## Credits
 
 * Raul Fraile ([@raulfraile](https://twitter.com/raulfraile))
-* [All contributors](https://github.com/raulfraile/distill/contributors)
+* [All contributors](https://github.com/GBeushausen/distill/graphs/contributors)
 
 ## License
 
-Distill is released under the MIT License. See the bundled [LICENSE](https://github.com/raulfraile/distill/blob/master/LICENSE) file for details.
+Distill is released under the MIT License. See the bundled [LICENSE](https://github.com/GBeushausen/distill/blob/master/LICENSE) file for details.
