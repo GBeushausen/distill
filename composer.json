@@ -1,5 +1,5 @@
 {
-    "name": "raulfraile/distill",
+    "name": "gbeushausen/distill",
     "description": "Smart compressed files extractor",
     "keywords": [
         "compression", "extractor", "zip", "gzip", "phar", "rar",
@@ -8,6 +8,10 @@
     ],
     "license": "MIT",
     "authors": [
+        {
+            "name": "Gunnar Beushausen",
+            "email": "gunnar@prestophp.com"
+        },
         {
             "name": "Raul Fraile",
             "email": "raulfraile@gmail.com"
